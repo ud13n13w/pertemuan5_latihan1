@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">pertemuan5_latihan1</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="full_name">Full name</string>
+    <string name="sign_up">Sign Up !</string>
+    <string name="username">Username</string>
+    <string name="re_enter_your_password">Re-enter your password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="password">Password</string>
+    <string name="enter_phone_number">Enter phone Number</string>
+    <string name="phone_number">Phone number</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="wanita">Wanita</string>
+    <string name="pria">Pria</string>
+    <string name="i_have_read_and_agree_to_the_terms_of_service">I have read and agree to the terms of service</string>
+    <string name="i_have_reached_12_or_above_years_old">i have reached 12 or above years old</string>
+    <string name="back">back</string>
+</resources>
